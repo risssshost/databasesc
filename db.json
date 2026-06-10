@@ -1,4 +1,5 @@
 {
-  BOT_TOKEN: "TOKEN_LU_CIL",
-  OWNER_IDS: ["7499992227"]
-};
+  "tokens": [
+    "token_lu_cil"
+  ]
+}
